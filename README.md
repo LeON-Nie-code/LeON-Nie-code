@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9qcfii"  />
+<img align="right" height="150" src="https://imgflip.com/embed/9qcfii"  />
 
 ###
 
@@ -69,13 +69,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/LeON-Nie-code/count.svg?"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeON-Nie-code/LeON-Nie-code/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeON-Nie-code/LeON-Nie-code/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeON-Nie-code/LeON-Nie-code/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
