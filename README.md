@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/embed/9qcfii"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
